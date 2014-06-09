@@ -1,0 +1,9 @@
+{
+    "lib": {
+        "www": {
+            "id": "cn.edu.gdmec.x07120721.contacts",
+            "version": "3.4.0",
+            "uri": "https://github.com/phonegap/phonegap-app-hello-world/archive/3.4.0.tar.gz"
+        }
+    }
+}
